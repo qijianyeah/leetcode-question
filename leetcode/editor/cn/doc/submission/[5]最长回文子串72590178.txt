@@ -1,0 +1,7 @@
+class Solution {
+    public String longestPalindrome(String s) {
+
+    }
+}
+//total_correct:0
+//compile_error:Line 4: error: missing return statement

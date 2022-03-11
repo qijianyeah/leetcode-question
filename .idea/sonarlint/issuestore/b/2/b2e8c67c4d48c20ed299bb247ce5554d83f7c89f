@@ -1,0 +1,13 @@
+
+>
+java:S1659D"#Declare "right" on a separate line.(È«Ò®üÿÿÿÿ
+:
+java:S1659G"%Declare "median2" on a separate line.(ßåÏ:
+ƒ
+java:S2234?"hParameters to findMedianSortedArrays have the same names but not the same order as the method arguments.(—Ö Ãûÿÿÿÿ
+f	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùõ¯™
+k	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ„ì›ùÿÿÿÿ
+k	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾•à£ûÿÿÿÿ
+f	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú£†¦
+0
+java:S1220""Move this file to a named package.

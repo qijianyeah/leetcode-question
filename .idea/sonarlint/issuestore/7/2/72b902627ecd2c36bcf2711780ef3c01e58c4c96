@@ -1,0 +1,11 @@
+
+W
+java:S1854B"<Remove this useless assignment to local variable "solution".(³ó–ôşÿÿÿÿ
+H
+java:S1481B"-Remove this unused "solution" local variable.(³ó–ôşÿÿÿÿ
+I
+java:S3599P",Use another way to initialize this instance.(ôñ¹ğ8øÎ¤Ó÷/
+v
+java:S1171P"YMove the contents of this initializer to a standard constructor or to field initializers.(ôñ¹ğ8øÎ¤Ó÷/
+v
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çƒ·8øÎ¤Ó÷/

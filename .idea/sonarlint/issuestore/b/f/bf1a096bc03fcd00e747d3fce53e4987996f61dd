@@ -1,0 +1,8 @@
+
+R
+java:S18548"<Remove this useless assignment to local variable "solution".(€›Ëã
+C
+java:S14818"-Remove this unused "solution" local variable.(€›Ëã
+X	java:S125S"<This block of commented-out lines of code should be removed.(À‘Ä†8©ÆˆÓ÷/
+v
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸­ú¼8©ÆˆÓ÷/

@@ -1,0 +1,8 @@
+
+R
+java:S18542"<Remove this useless assignment to local variable "solution".(…¼‹Ì
+C
+java:S14812"-Remove this unused "solution" local variable.(…¼‹Ì
+_
+java:S20947"BRemove this empty class, write its code or make it an "interface".(¬ÙÅŠ8ø™›Ó÷/
+X	java:S1258"<This block of commented-out lines of code should be removed.(©È¶ã8ù™›Ó÷/
